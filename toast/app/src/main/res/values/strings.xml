@@ -2,4 +2,8 @@
     <string name="app_name">toast</string>
     <string name="button_main">SEND</string>
     <string name="text_header">Hello, bien reçu</string>
+    <string name="editText_main">quoi de neuf </string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Je Ne sais pas</string>
+    <string name="text_header_reply">replytwo</string>
 </resources>
