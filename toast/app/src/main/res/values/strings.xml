@@ -5,5 +5,5 @@
     <string name="editText_main">quoi de neuf </string>
     <string name="button_second">Reply</string>
     <string name="editText_second">Je Ne sais pas</string>
-    <string name="text_header_reply">replytwo</string>
+    <string name="text_header_reply">Ce nest pas le meme message</string>
 </resources>
